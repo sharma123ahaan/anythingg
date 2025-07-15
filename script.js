@@ -1,0 +1,1 @@
+// JS logic for filters, theme, search
